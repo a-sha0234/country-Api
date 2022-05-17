@@ -1,0 +1,3 @@
+fetching the api
+create and handle form 
+display result 
